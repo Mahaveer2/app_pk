@@ -1,0 +1,12 @@
+/Users/partabrai/Desktop/fiverr/imggen/src-tauri/target/release/deps/state-cdadc07ec96ec5e5.rmeta: /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/partabrai/Desktop/fiverr/imggen/src-tauri/target/release/deps/libstate-cdadc07ec96ec5e5.rlib: /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/partabrai/Desktop/fiverr/imggen/src-tauri/target/release/deps/state-cdadc07ec96ec5e5.d: /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs:

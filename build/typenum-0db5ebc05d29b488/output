@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/partabrai/Desktop/fiverr/imggen/src-tauri/target/release/build/typenum-0db5ebc05d29b488/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/partabrai/Desktop/fiverr/imggen/src-tauri/target/release/build/typenum-0db5ebc05d29b488/out/op.rs

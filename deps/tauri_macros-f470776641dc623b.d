@@ -1,0 +1,11 @@
+/Users/partabrai/Desktop/fiverr/imggen/src-tauri/target/release/deps/libtauri_macros-f470776641dc623b.dylib: /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/lib.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/mod.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/handler.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/wrapper.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command_module.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/runtime.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/context.rs
+
+/Users/partabrai/Desktop/fiverr/imggen/src-tauri/target/release/deps/tauri_macros-f470776641dc623b.d: /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/lib.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/mod.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/handler.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/wrapper.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command_module.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/runtime.rs /Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/context.rs
+
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/lib.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/mod.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/handler.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command/wrapper.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/command_module.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/runtime.rs:
+/Users/partabrai/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.2.1/src/context.rs:
